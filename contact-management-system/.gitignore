@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+logs/
+
+contacts.csv
+contacts.xlsx
+
+.vscode/
